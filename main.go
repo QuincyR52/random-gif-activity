@@ -24,6 +24,7 @@ func main() {
 </head>
 <body>
   <h1>Hello from Go!</h1>
+  <img src="https://s3.amazonaws.com/files.656.mba/mgt656/fall-2026/random-gifs/adorbs/AttackingTheCatBuritto.gif" alt="A cute animal">
 </body>
 </html>`
 
